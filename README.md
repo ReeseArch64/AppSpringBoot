@@ -1,27 +1,25 @@
 # 📦 Spring Boot Backend Application
 
-Este é um backend gerado com Spring Boot. Ele fornece uma base sólida para construir APIs RESTful com Java e Spring Framework.
+This is a backend application generated with Spring Boot. It provides a solid foundation for building RESTful APIs with Java and the Spring Framework.
 
-## 🔧 Requisitos
+## 🔧 Requirements
 
-- Java 17 ou superior
+- Java 17 or higher
 - Maven 3.8+
-- (Opcional) Docker e Docker Compose
-- Banco de dados (ex: PostgreSQL, MySQL, H2 etc.)
 
-## 🚀 Como executar localmente
+## 🚀 How to Run Locally
 
-1. **Clone o repositório:**
+1. **Clone the repository:**
 
 ```bash
 git clone https://github.com/ReeseArch64/AppSpringBoot.git
 cd AppSpringBoot
 ````
 
-2. **Compile e rode a aplicação:**
+2. **Build and run the application:**
 
 ```bash
 ./mvnw spring-boot:run
 ```
 
-> A aplicação será iniciada em: `http://localhost:8080`
+> The application will start at: `http://localhost:8080`
